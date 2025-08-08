@@ -65,7 +65,7 @@
 
 ### 📬 Connect with Me
 <div align="left">
-  <a href="https://www.instagram.com/mr_zodiac._?igsh=anY0N3g0MWRvZTdi" target="_blank">
+  <a href="https://www.instagram.com/mubha_shira.__?igsh=anY0N3g0MWRvZTdi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:00lionel11@gmail.com" target="_blank">
